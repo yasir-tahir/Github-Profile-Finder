@@ -23,7 +23,7 @@ form.addEventListener("submit", async (event)=>{
     const follow = main.children[11]
     console.log(follow);
 
-    const link = main.children[15]
+    const link = main.children[14]
     console.log(link);
     
     
@@ -48,11 +48,5 @@ form.addEventListener("submit", async (event)=>{
     
 
 })
-
-// async function test() {
-    
-// }
-
-// test()
 
 console.log("Yasir");
